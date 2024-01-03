@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b3nzy&label=Profile%20views&color=0e75b6&style=flat" alt="b3nzy" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **React, Node, JAVA**
 
