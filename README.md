@@ -55,13 +55,13 @@ I am a **Software Engineer** with 2.5+ years of professional experience building
 
 ## ⚡ Featured Projects
 
-### 🛒 [eCommerceSolution](https://github.com/B3nzy) — Distributed Microservices System
+### 🛒 [eCommerceSolution](https://github.com/B3nzy/eCommerceSolution) — Distributed Microservices System
 * Engineered a decoupled architecture using **.NET Core** and an **Ocelot API Gateway**.
 * Implemented **Multi-Database Persistence**: PostgreSQL (Users), MS SQL Server (Products), and MongoDB (Orders).
 * Integrated a secure **Distributed Redis Cache** layer to drastically cut database load and maximize efficiency.
 * Orchestrated isolated database networks using **Docker & Docker Compose** for secure inter-service communication.
 
-### 👗 [WeaveWhisper](https://github.com/B3nzy) — Multi-Vendor E-Commerce Marketplace
+### 👗 [WeaveWhisper](https://github.com/B3nzy/WeaveWhisper_eCommerce_BackEnd) — Multi-Vendor E-Commerce Marketplace
 * Developed a responsive platform connecting clothing brands with buyers using **React** and **Java Spring Boot**.
 * Secured dashboards using **Spring Security** & **JWT** role-based access control workflows.
 * Set up non-blocking media storage via **AWS S3** and webhooks-verified checkouts with **Razorpay**.
@@ -71,12 +71,12 @@ I am a **Software Engineer** with 2.5+ years of professional experience building
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=B3nzy&show_icons=true&locale=en&layout=compact" alt="B3nzy Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=B3nzy&show_icons=true&locale=en" alt="B3nzy GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.shion.dev/api/top-langs?username=B3nzy&show_icons=true&locale=en&layout=compact&theme=dark" alt="B3nzy Top Languages" height="165" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api?username=B3nzy&show_icons=true&locale=en&theme=dark" alt="B3nzy GitHub Stats" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B3nzy" alt="B3nzy Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=B3nzy&theme=dark" alt="B3nzy Streak Stats" />
 </p>
 
 ---
