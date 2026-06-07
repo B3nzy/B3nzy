@@ -34,7 +34,7 @@ I am a **Software Engineer** with 2.5+ years of professional experience building
 
 ### 🗄️ Databases & Message Brokers
 <p align="left">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="mssql" width="40" height="40"/>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
@@ -56,15 +56,15 @@ I am a **Software Engineer** with 2.5+ years of professional experience building
 ## ⚡ Featured Projects
 
 ### 🛒 [eCommerceSolution](https://github.com/B3nzy) — Distributed Microservices System
-* Engineered a decoupled architecture using **.NET Core** and an **Ocelot API Gateway**[cite: 58].
-* Implemented **Multi-Database Persistence**: PostgreSQL (Users), MS SQL Server (Products), and MongoDB (Orders)[cite: 59].
-* Integrated a secure **Distributed Redis Cache** layer to drastically cut database load and maximize efficiency[cite: 60].
-* Orchestrated isolated database networks using **Docker & Docker Compose** for secure inter-service communication[cite: 61].
+* Engineered a decoupled architecture using **.NET Core** and an **Ocelot API Gateway**.
+* Implemented **Multi-Database Persistence**: PostgreSQL (Users), MS SQL Server (Products), and MongoDB (Orders).
+* Integrated a secure **Distributed Redis Cache** layer to drastically cut database load and maximize efficiency.
+* Orchestrated isolated database networks using **Docker & Docker Compose** for secure inter-service communication.
 
 ### 👗 [WeaveWhisper](https://github.com/B3nzy) — Multi-Vendor E-Commerce Marketplace
-* Developed a responsive platform connecting clothing brands with buyers using **React** and **Java Spring Boot**[cite: 65].
-* Secured dashboards using **Spring Security** & **JWT** role-based access control workflows[cite: 66].
-* Set up non-blocking media storage via **AWS S3** and webhooks-verified checkouts with **Razorpay**[cite: 67].
+* Developed a responsive platform connecting clothing brands with buyers using **React** and **Java Spring Boot**.
+* Secured dashboards using **Spring Security** & **JWT** role-based access control workflows.
+* Set up non-blocking media storage via **AWS S3** and webhooks-verified checkouts with **Razorpay**.
 
 ---
 
@@ -83,13 +83,13 @@ I am a **Software Engineer** with 2.5+ years of professional experience building
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/sumit-mandal-807344238/" target="blank">
+  <a href="https://www.linkedin.com/in/sumit-mandal-807344238/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sumit Mandal LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/Benzy" target="blank">
+  <a href="https://www.hackerrank.com/Benzy" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Benzy HackerRank" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/user9952pw/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/cnasofly/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="Benzy LeetCode" height="30" width="35" error=this.src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg"/>
+  <a href="https://leetcode.com/user9952pw/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Benzy LeetCode" height="30" width="40" />
   </a>
 </p>
