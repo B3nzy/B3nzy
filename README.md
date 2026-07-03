@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-I am a **Software Engineer** with 2.5+ years of professional experience building event-driven microservices and managing distributed data layers across SQL and NoSQL environments. I specialize in designing robust backend systems, handling live production monitoring, and cloud-native containerization.
+I am a **Software Engineer** with 3 years of professional experience building event-driven microservices and managing distributed data layers across SQL and NoSQL environments. I specialize in designing robust backend systems, handling live production monitoring, and cloud-native containerization.
 
 - 🔭 I’m currently working on enhancing critical, high-volume payment microservices at **Xplor Technologies**.
 - 🛠️ Deeply experienced in **.NET Core, Java Spring Boot, and Node.js**.
