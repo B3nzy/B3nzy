@@ -56,8 +56,9 @@ I am a **Software Engineer** with 3 years of professional experience building ev
 ## ⚡ Featured Projects
 
 ### 🛒 [eCommerceSolution](https://github.com/B3nzy/eCommerceSolution) — Distributed Microservices System
-* Engineered a decoupled architecture using **.NET Core** and an **Ocelot API Gateway**.
-* Implemented **Multi-Database Persistence**: PostgreSQL (Users), MS SQL Server (Products), and MongoDB (Orders).
+* Engineered a decoupled architecture (User, Product, Order, and Inventory services) using **.NET Core** and an **Ocelot API Gateway**.
+* Integrated **RabbitMQ (via MassTransit)** for event-driven asynchronous messaging, automatically updating and deducting stock levels upon order consumption.
+* Implemented **Multi-Database Persistence**: PostgreSQL (Users), MS SQL Server (Products/Inventory), and MongoDB (Orders).
 * Integrated a secure **Distributed Redis Cache** layer to drastically cut database load and maximize efficiency.
 * Orchestrated isolated database networks using **Docker & Docker Compose** for secure inter-service communication.
 
